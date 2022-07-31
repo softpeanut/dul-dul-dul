@@ -5,7 +5,7 @@
 
 <img width="1446" alt="image" src="https://user-images.githubusercontent.com/80632060/182009642-9d4a0f80-3eae-4982-98f5-755f7ac623c7.png">
 
-### Archive abount Domain Driven Design: The Methodology for linking Business to Software
+### Archive of Domain Driven Design: The Methodology for linking Business to Software
 
 </div>
 
