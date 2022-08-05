@@ -77,6 +77,15 @@
 
 ---
 
+## 도메인 주도 설계 첫걸음
+
+1. 전략적 설계
+2. 전술적 설계
+3. 도메인 주도 설계 적용 실무
+4. 다른 방법론 및 패턴과의 
+
+---
+
 ## Tips
 
 - [서비스가 헷갈린다?](https://github.com/softpeanut/dul-dul-dul/blob/main/%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80%20%ED%97%B7%EA%B0%88%EB%A6%B0%EB%8B%A4%3F.md)
