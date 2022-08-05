@@ -79,7 +79,11 @@
 
 ## 도메인 주도 설계 첫걸음
 
-1. 전략적 설계
+1. [전략적 설계](https://github.com/softpeanut/dul-dul-dul/tree/main/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/Chapter01.%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%EC%84%A4%EA%B3%84)
+   1. [비즈니스 도메인 분석하기](https://github.com/softpeanut/dul-dul-dul/blob/main/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/Chapter01.%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%EC%84%A4%EA%B3%84/01.%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.md)
+   2. [도메인 지식 찾아내기](https://github.com/softpeanut/dul-dul-dul/blob/main/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/Chapter01.%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%EC%84%A4%EA%B3%84/02.%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A7%80%EC%8B%9D%20%EC%B0%BE%EC%95%84%EB%82%B4%EA%B8%B0.md)
+   3. [도메인 복잡성 관리](https://github.com/softpeanut/dul-dul-dul/blob/main/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/Chapter01.%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%EC%84%A4%EA%B3%84/03.%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%B3%B5%EC%9E%A1%EC%84%B1%20%EA%B4%80%EB%A6%AC.md)
+   4. [바운디드 컨텍스트 연동](https://github.com/softpeanut/dul-dul-dul/blob/main/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/Chapter01.%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%EC%84%A4%EA%B3%84/04.%20%EB%B0%94%EC%9A%B4%EB%94%94%EB%93%9C%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%97%B0%EB%8F%99.md)
 2. 전술적 설계
 3. 도메인 주도 설계 적용 실무
 4. 다른 방법론 및 패턴과의 
